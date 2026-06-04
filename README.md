@@ -38,4 +38,4 @@ I care about code I can reason about, systems I can explain, and projects that s
 
 ---
 
-<sub>📊 GitHub stats · <a href="https://github-readme-stats.vercel.app/api?username=Nishtha453&show_icons=true&hide_border=true&title_color=185FA5&text_color=888780&icon_color=185FA5&bg_color=ffffff">view</a></sub>
+---
